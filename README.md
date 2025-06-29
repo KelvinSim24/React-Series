@@ -6,7 +6,7 @@ A simple movie website built with **React** and **JavaScript**, styled using **B
 
 ## 📸 Preview
 
-![App Screenshot](images/movie-website-preview.png)
+![App Screenshot](ProjectPreview.png)
 
 ---
 
